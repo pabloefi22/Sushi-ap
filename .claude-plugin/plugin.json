@@ -1,0 +1,1 @@
+{ "name": "panel-agentes", "version": "0.1.0", "author": { "name": "Pablo" }, "description": "Panel que enseña qué hace cada agente en tiempo real", "types": "./types/index.d.ts" }

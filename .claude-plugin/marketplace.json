@@ -1,0 +1,7 @@
+{
+  "name": "panel-agentes",
+  "owner": { "name": "pabloefi22" },
+  "plugins": [
+    { "name": "panel-agentes", "source": "./", "description": "Panel que enseña qué hace cada agente en tiempo real" }
+  ]
+}

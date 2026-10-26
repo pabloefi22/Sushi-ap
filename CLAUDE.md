@@ -21,13 +21,13 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 1. **Promar** (proveedor de pescados, congelados e insumos de cocina)
    - Pescados y mariscos de proveedor: pescado blanco, salmón, camarón
    - Kikkoman (balde), gyozas, cerdo
-   - Harina (saco), aluminio, film, aluminio handroll
-   - Nori, vinagre de manzana, salsa de soya, salsa de ostra, aceite de sésamo, panko, kanikama, palmitos, queso cheddar
+   - Aluminio, film, aluminio handroll
+   - Nori, vinagre de manzana, salsa de ostra, aceite de sésamo, panko, kanikama, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón
    - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
-   - Abarrotes: aceite normal (el de sushi), azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
+   - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort
 3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar y la carne molida) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Mamá Pilar**
@@ -51,7 +51,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - El usuario a veces anota el stock que queda ("quedan 2"): no lo incluyas, deja solo lo que hay que comprar.
 - Corrige la ortografía (quezo → queso, zanarolla → zanahoria, lemon → limón).
 - Si algo queda pendiente para otro día (ej.: palta pendiente para el martes), anótalo entre paréntesis en esa línea.
-- "1 cada 1" en morrón significa 1 morrón de cada color.
+- "1 cada 1" o "1 de cada uno" en morrón: escríbelo como "1 morrón amarillo, 1 rojo y 1 verde".
 - Si un producto viene sin cantidad, ponle 1.
 - Si hay algo ambiguo, márcalo y pregunta.
 

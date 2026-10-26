@@ -24,9 +24,10 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Harina (saco), aluminio, film
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, limón
+   - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
    - Abarrotes: azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel: toalla Nova, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, paños para trapear, Confort
-3. **Carnicería** (solo si hay algo): pollo, carne (p. ej. caluga de carne o de ave) y choclo en bolsa congelado
+3. **Carnicería** (solo si hay algo): pollo, carne y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Otros**
    - Palta (caja), pulpo, loco, lechuga
    - Envases (de gohan, de 2), pocillos de loza, salseros para mesa, vasos plásticos, palillos
@@ -38,7 +39,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 
 - Una línea por producto: `<cantidad> <producto>` (ej.: `2 kilos de pescado blanco`).
 - Respeta las palabras del usuario. Corrige solo los espacios pegados (`1KG TOMATE` → `1 kg tomate`).
-- Dentro de cada sección, agrupa en este orden: verduras y frutas, luego abarrotes, luego limpieza.
+- Dentro de Feria, agrupa en este orden: verduras y frutas, luego calugas, luego abarrotes, luego limpieza.
 - Si falta la cantidad o hay algo ambiguo, márcalo y pregunta.
 
 ## Ejemplo de referencia (19/10/2026)
@@ -65,6 +66,7 @@ Feria:
 1 kilo zanahoria
 2 cabezas de ajo
 3 morrón rojo
+1 kilo caluga de carne
 3 display azúcar
 4 champiñón en lata
 1/4 kilo merkén
@@ -82,9 +84,6 @@ Feria:
 2 Poet
 3 paños para trapear
 1 pack Confort
-
-Carnicería:
-1 kilo caluga de carne
 
 Otros:
 1 caja palta

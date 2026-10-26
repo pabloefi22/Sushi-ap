@@ -22,20 +22,20 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, salmón, camarón
    - Kikkoman (balde), gyozas, cerdo
    - Harina (saco), aluminio, film, aluminio handroll
-   - Nori, vinagre de manzana, salsa de soya, panko, kanikama, palmitos, queso cheddar
+   - Nori, vinagre de manzana, salsa de soya, salsa de ostra, aceite de sésamo, panko, kanikama, palmitos, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
-   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, limón
+   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón
    - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
    - Abarrotes: aceite normal (el de sushi), azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort
-3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
+3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar y la carne molida) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Otros**
    - Palta (caja), lechuga, queso crema
 6. **DPS o J.O** (desechables, plásticos y menaje)
-   - Bolsa de basura, bolsas para salsas, vasos plásticos y otros plásticos
+   - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
    - Palillos de sushi, guantes (M / L)
    - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear
@@ -52,7 +52,8 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - Corrige la ortografía (quezo → queso, zanarolla → zanahoria, lemon → limón).
 - Si algo queda pendiente para otro día (ej.: palta pendiente para el martes), anótalo entre paréntesis en esa línea.
 - "1 cada 1" en morrón significa 1 morrón de cada color.
-- Si falta la cantidad o hay algo ambiguo, márcalo y pregunta.
+- Si un producto viene sin cantidad, ponle 1.
+- Si hay algo ambiguo, márcalo y pregunta.
 
 ## Ejemplo de referencia (19/10/2026)
 

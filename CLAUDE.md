@@ -14,6 +14,15 @@ Locales conocidos:
 - Playa Brava
 - Héroes de la Concepción
 
+### Listado de casa
+
+Además de los locales, el usuario hace un listado de **casa**. Su encabezado es `Casa <dd/mm/aaaa>` (sin "Sushi Ap").
+Usa las mismas secciones y el mismo orden que en los locales, con estas diferencias:
+- La lechuga va en **Feria** (en casa no se compra por caja).
+- Churrasco, vienesa, nugget, hamburguesa y pollo van en **Carnicería**.
+- Huevos, harina y picle van en **Feria** (abarrotes); el cloro puro va en Feria (limpieza).
+- Si algo es "para mañana" o para una persona (ej.: Sra. Mitsy), anótalo entre paréntesis en esa línea.
+
 Si el usuario no indica la fecha, usa la fecha del día del pedido.
 
 ## Secciones (en este orden)

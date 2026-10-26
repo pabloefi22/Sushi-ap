@@ -28,7 +28,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, limón
    - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
    - Abarrotes: aceite normal (el de sushi), azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
-   - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, paños de cocina, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, paños para trapear, Confort
+   - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, paños para trapear, Confort
 3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Mamá Pilar**
    - Pulpo, loco
@@ -38,7 +38,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Bolsa de basura, bolsas para salsas, vasos plásticos y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
    - Palillos de sushi, guantes (M / L)
-   - Rollos para impresora, Confort de baño
+   - Rollos para impresora, Confort de baño, paños de cocina
    - Aluminio y film siguen en Promar
 
 Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, ponlo en **Otros** y avísale al usuario.

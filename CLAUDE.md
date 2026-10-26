@@ -30,11 +30,11 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 3. **Carnicería** (solo si hay algo): pollo, carne y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Otros**
    - Palta (caja), pulpo, loco, lechuga
-   - Rollos para impresora, Confort de baño
 5. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
    - Palillos de sushi, guantes (M / L)
+   - Rollos para impresora, Confort de baño
    - Aluminio y film siguen en Promar
 
 Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, ponlo en **Otros** y avísale al usuario.
@@ -92,7 +92,6 @@ Feria:
 Otros:
 1 caja palta
 5 kg pulpo
-1 caja rollos para impresora
 
 DPS o J.O:
 Envase de gohan
@@ -100,4 +99,5 @@ Envase de 2
 Pocillos de loza
 1 rollo bolsas para salsas
 1 bolsa basura grande
+1 caja rollos para impresora
 ```

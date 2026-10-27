@@ -31,18 +31,18 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, salmón, camarón
    - Kikkoman (balde), gyozas, cerdo
    - Aluminio, film, aluminio handroll
-   - Nori, vinagre de manzana, salsa de ostra, aceite de sésamo, panko, kanikama, queso cheddar
+   - Nori, vinagre de manzana, panko, kanikama, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón
    - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
-   - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
+   - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort
 3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar y la carne molida) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Otros**
-   - Palta (caja), lechuga, queso crema
+   - Palta (caja), lechuga, queso crema, aceite de sésamo
 6. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa

@@ -29,7 +29,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 
 1. **Promar** (proveedor de pescados, congelados e insumos de cocina)
    - Pescados y mariscos de proveedor: pescado blanco, salmón, camarón
-   - Kikkoman (balde), gyozas, cerdo
+   - Kikkoman (balde), gyozas
    - Aluminio, film, aluminio handroll
    - Arroz (display), nori, vinagre de manzana, panko, kanikama, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
@@ -38,7 +38,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
    - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort
-3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar y la carne molida) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
+3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar, la carne molida y el cerdo) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Otros**

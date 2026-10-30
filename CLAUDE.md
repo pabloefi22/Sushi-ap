@@ -31,7 +31,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, salmón, camarón
    - Kikkoman (balde), gyozas, cerdo
    - Aluminio, film, aluminio handroll
-   - Nori, vinagre de manzana, panko, kanikama, queso cheddar
+   - Arroz (display), nori, vinagre de manzana, panko, kanikama, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón
@@ -42,7 +42,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Otros**
-   - Palta (caja), lechuga, queso crema, aceite de sésamo
+   - Palta (caja), lechuga, queso crema, aceite de sésamo, jarras de litro
 6. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa

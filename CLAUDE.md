@@ -35,7 +35,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón
-   - Calugas: caluga de carne, caluga de ave (siempre en Feria, no en Carnicería)
+   - Calugas: caluga de carne, caluga de ave, caluga de pescado (por tira) (siempre en Feria, no en Carnicería ni Promar)
    - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort
 3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar, la carne molida y el cerdo) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)

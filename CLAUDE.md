@@ -42,12 +42,12 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Otros**
-   - Salmón, palta (caja), lechuga, queso crema, huevos (caja; en Casa van en Feria), aceite de sésamo, jarras de litro
+   - Salmón, palta (caja), lechuga, queso crema, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
 6. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
    - Palillos de sushi, guantes (M / L)
-   - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear, traperos de piso
+   - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear, traperos de piso, escoba
    - Aluminio y film siguen en Promar
 
 Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, ponlo en **Otros** y avísale al usuario.
@@ -62,6 +62,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - Si algo queda pendiente para otro día (ej.: palta pendiente para el martes), anótalo entre paréntesis en esa línea.
 - "1 cada 1" o "1 de cada uno" en morrón: escríbelo como "1 morrón amarillo, 1 rojo y 1 verde".
 - Si un producto viene sin cantidad, ponle 1.
+- El diente de dragón siempre es 1/4 (escríbelo "1/4 diente de dragón").
 - Si hay algo ambiguo, márcalo y pregunta.
 
 ## Ejemplo de referencia (19/10/2026)

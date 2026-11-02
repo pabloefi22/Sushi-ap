@@ -42,12 +42,12 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Otros**
-   - Salmón, palta (caja), lechuga, queso crema, aceite de sésamo, jarras de litro
+   - Salmón, palta (caja), lechuga, queso crema, huevos (caja; en Casa van en Feria), aceite de sésamo, jarras de litro
 6. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
    - Palillos de sushi, guantes (M / L)
-   - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear
+   - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear, traperos de piso
    - Aluminio y film siguen en Promar
 
 Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, ponlo en **Otros** y avísale al usuario.

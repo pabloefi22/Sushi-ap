@@ -31,10 +31,10 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, camarón (el salmón va en Otros)
    - Kikkoman (balde), gyozas
    - Aluminio, film, aluminio handroll
-   - Arroz (display), nori, vinagre de manzana, panko, kanikama, queso cheddar
+   - Arroz (display), nori, papel de arroz, vinagre de manzana, panko, kanikama, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
-   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón
+   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón, jengibre, pepino
    - Calugas: caluga de carne, caluga de ave, caluga de pescado (por tira) (siempre en Feria, no en Carnicería ni Promar)
    - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort

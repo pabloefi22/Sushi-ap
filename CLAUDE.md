@@ -62,6 +62,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - Si algo queda pendiente para otro día (ej.: palta pendiente para el martes), anótalo entre paréntesis en esa línea.
 - "1 cada 1" o "1 de cada uno" en morrón: escríbelo como "1 morrón amarillo, 1 rojo y 1 verde".
 - Si un producto viene sin cantidad, ponle 1.
+- La toalla Nova tiene un máximo de 10 por pedido y por local: si al sumar pasa de 10, deja 10 y avísale al usuario.
 - El diente de dragón siempre es 1/4 (escríbelo "1/4 diente de dragón").
 - Si hay algo ambiguo, márcalo y pregunta.
 

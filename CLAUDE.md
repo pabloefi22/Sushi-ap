@@ -29,7 +29,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 
 1. **Promar** (proveedor de pescados, congelados e insumos de cocina)
    - Pescados y mariscos de proveedor: pescado blanco, camarón (el salmón va en Otros)
-   - Kikkoman (balde), gyozas
+   - Gyozas
    - Aluminio, film, aluminio handroll
    - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar
    - Aceite industrial para freír (bidón, el de las papas)
@@ -65,6 +65,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - "1 cada 1" o "1 de cada uno" en morrón: escríbelo como "1 morrón amarillo, 1 rojo y 1 verde".
 - Si un producto viene sin cantidad, ponle 1.
 - La toalla Nova tiene un máximo de 10 por pedido y por local: si al sumar pasa de 10, deja 10 y avísale al usuario.
+- Si piden Kikkoman, cámbialo siempre por 1 caja de salsa de soya (Feria). Si ya hay soya, súmala.
 - El diente de dragón siempre es 1/4 (escríbelo "1/4 diente de dragón").
 - Si hay algo ambiguo, márcalo y pregunta.
 

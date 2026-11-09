@@ -44,11 +44,11 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 5. **Soprole**
    - Queso en lámina
 6. **Otros**
-   - Salmón, palta (caja), lechuga, guantes talla S (los M y L van en DPS o J.O), huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
+   - Salmón, palta (caja), lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
 7. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
-   - Palillos de sushi, guantes (M / L)
+   - Palillos de sushi, guantes (S / M / L)
    - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear, traperos de piso, escoba
    - Aluminio y film siguen en Promar
 

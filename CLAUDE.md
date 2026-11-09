@@ -31,7 +31,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, camarón (el salmón va en Otros)
    - Gyozas
    - Aluminio, film, aluminio handroll
-   - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar
+   - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón, jengibre, pepino
@@ -44,7 +44,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 5. **Soprole**
    - Queso en lámina
 6. **Otros**
-   - Salmón, palta (caja), lechuga, queso crema, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
+   - Salmón, palta (caja), lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
 7. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa

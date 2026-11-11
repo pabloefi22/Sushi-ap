@@ -66,7 +66,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - Si un producto viene sin cantidad, ponle 1.
 - La toalla Nova tiene un máximo de 10 por pedido y por local: si al sumar pasa de 10, deja 10 y avísale al usuario.
 - Si piden Kikkoman, cámbialo siempre por 1 caja de salsa de soya (Feria). Si ya hay soya, súmala.
-- El arroz de sushi se pide en display: si viene en kilos, 10 kilos = 1 display (ej.: 40 kilos = 4 display arroz).
+- El arroz de sushi y el azúcar se piden en display: si vienen en kilos, 10 kilos = 1 display (ej.: 40 kilos de arroz = 4 display; 20 kilos de azúcar = 2 display).
 - El diente de dragón siempre es 1/4 (escríbelo "1/4 diente de dragón").
 - Si hay algo ambiguo, márcalo y pregunta.
 

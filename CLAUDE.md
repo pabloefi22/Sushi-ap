@@ -34,7 +34,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema, esterillas
    - Aceite industrial para freír (bidón, el de las papas)
 2. **Feria**
-   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, limón, jengibre, pepino
+   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, palta (caja), limón, jengibre, pepino
    - Calugas: caluga de carne, caluga de ave, caluga de pescado (por tira) (siempre en Feria, no en Carnicería ni Promar)
    - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa, atún (lata), arroz graneado (display; el arroz de sushi va en Promar)
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort, líquido multiuso, insecticida, desodorante ambiental, jabón
@@ -44,7 +44,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 5. **Soprole**
    - Queso en lámina
 6. **Otros**
-   - Salmón, palta (caja), lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
+   - Salmón, lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
 7. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa

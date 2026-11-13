@@ -62,6 +62,7 @@ Si una sección queda vacía, no la pongas. Si un producto no calza en ninguna, 
 - El usuario a veces anota el stock que queda ("quedan 2"): no lo incluyas, deja solo lo que hay que comprar.
 - Corrige la ortografía (quezo → queso, zanarolla → zanahoria, lemon → limón).
 - Si algo queda pendiente para otro día (ej.: palta pendiente para el martes), anótalo entre paréntesis en esa línea.
+- "No llegue antes" / "eso no llegó" significa que no llegó en el pedido anterior: anótalo como "(no llegó en el pedido anterior)".
 - "1 cada 1" o "1 de cada uno" en morrón: escríbelo como "1 morrón amarillo, 1 rojo y 1 verde".
 - Si un producto viene sin cantidad, ponle 1.
 - La toalla Nova tiene un máximo de 10 por pedido y por local: si al sumar pasa de 10, deja 10 y avísale al usuario.

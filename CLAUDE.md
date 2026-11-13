@@ -22,6 +22,8 @@ Usa las mismas secciones y el mismo orden que en los locales, con estas diferenc
 - Churrasco, vienesa, nugget, hamburguesa y pollo van en **Carnicería**.
 - Huevos, harina y picle van en **Feria** (abarrotes); el cloro puro va en Feria (limpieza).
 - Si algo es "para mañana" o para una persona (ej.: Sra. Mitsy), anótalo entre paréntesis en esa línea.
+- En casa, las frutas y verduras van por kilo (tomate, zanahoria, manzana, plátano, naranja…); lechuga, acelga, cilantro, apio y sandía van por unidad; la papa es 1 saco de papas de La Serena.
+- Salsa de tomate en display; el cereal es Trix.
 
 Si el usuario no indica la fecha, usa la fecha del día del pedido.
 

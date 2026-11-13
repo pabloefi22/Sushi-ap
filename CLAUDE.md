@@ -44,7 +44,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 5. **Soprole**
    - Queso en lámina
 6. **Otros**
-   - Salmón, lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro
+   - Salmón, lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro, plumones para rotular
 7. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa

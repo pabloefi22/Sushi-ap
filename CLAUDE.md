@@ -48,7 +48,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 6. **Otros**
    - Salmón, lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro, plumones para rotular
 7. **DPS o J.O** (desechables, plásticos y menaje)
-   - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada y otros plásticos
+   - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada, bolsas kraft, bolsas pequeñas y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa
    - Palillos de sushi, guantes (S / M / L)
    - Rollos para impresora, Confort de baño, paños de cocina, paños para trapear, paños para mesón, traperos de piso, escoba

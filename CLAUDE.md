@@ -33,20 +33,20 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, camarón (el salmón va en Otros)
    - Gyozas
    - Aluminio, film, aluminio handroll
-   - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema, esterillas, Hondashi
+   - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema, esterillas, Hondashi, jengibre rojo encurtido (caja)
    - Aceite industrial para freír / aceite de alta temperatura (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, palta (caja), limón, jengibre, pepino
    - Calugas: caluga de carne, caluga de ave, caluga de pescado (por tira) (siempre en Feria, no en Carnicería ni Promar)
-   - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa, atún (lata), arroz graneado (display; el arroz de sushi va en Promar), aceite de oliva, mantequilla
+   - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa, atún (lata), arroz graneado (display; el arroz de sushi va en Promar), aceite de oliva, mantequilla, alcaparras
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): toalla Nova, antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort, líquido multiuso, insecticida, desodorante ambiental, jabón
-3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar, la carne molida y el cerdo) y choclo en bolsa congelado (las calugas NO van aquí, van en Feria)
+3. **Carnicería** (solo si hay algo): pollo, carne (incluida la carne para mechar, la carne molida y el cerdo) y choclo en bolsa congelado, huevos (caja; en Casa van en Feria) (las calugas NO van aquí, van en Feria)
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Soprole**
    - Queso en lámina
 6. **Otros**
-   - Salmón, lechuga, huevos (caja; en Casa van en Feria), queso mozzarella (barra), aceite de sésamo, jarras de litro, plumones para rotular
+   - Salmón, lechuga, queso mozzarella (barra), aceite de sésamo, jarras de litro, plumones para rotular
 7. **DPS o J.O** (desechables, plásticos y menaje)
    - Bolsa de basura, bolsas para salsas, vasos plásticos, vasos de Kapu, bolsa prepicada, bolsas kraft, bolsas pequeñas y otros plásticos
    - Envases (de gohan, de 2), pocillos, salseros para mesa

@@ -33,7 +33,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Pescados y mariscos de proveedor: pescado blanco, camarón (el salmón va en Otros)
    - Gyozas
    - Aluminio, film, aluminio handroll
-   - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema, esterillas, Hondashi, jengibre rojo encurtido (caja), sriracha
+   - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema, esterillas, Hondashi, jengibre rojo encurtido (caja), sriracha, togarashi
    - Aceite industrial para freír / aceite de alta temperatura (bidón, el de las papas)
 2. **Feria**
    - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, palta (caja), limón, jengibre, pepino

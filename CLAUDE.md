@@ -44,7 +44,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
 4. **Mamá Pilar**
    - Pulpo, loco
 5. **Soprole**
-   - Queso en lámina
+   - Queso en lámina, leche crema
 6. **Otros**
    - Salmón, lechuga, queso mozzarella (barra), aceite de sésamo, jarras de litro, plumones para rotular
 7. **DPS o J.O** (desechables, plásticos y menaje)

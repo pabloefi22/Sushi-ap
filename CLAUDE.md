@@ -36,7 +36,7 @@ Si el usuario no indica la fecha, usa la fecha del día del pedido.
    - Arroz (display), nori, papel de arroz, sésamo mix, vinagre de manzana, panko, kanikama, queso cheddar, queso crema, esterillas, Hondashi, jengibre rojo encurtido (caja), sriracha, togarashi
    - Aceite industrial para freír / aceite de alta temperatura (bidón, el de las papas)
 2. **Feria**
-   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, palta (caja), limón, jengibre, pepino
+   - Verduras y frutas: tomate, maracuyá, frutilla, papas, cebollín, choclo entero, cebolla morada/blanca, camote, zanahoria, ajo, morrón, coliflor, diente de dragón, cilantro, perejil, zapallo italiano, champiñón en bandeja, palta (caja), limón, jengibre, pepino, ají chileno, ají amarillo
    - Calugas: caluga de carne, caluga de ave, caluga de pescado (por tira) (siempre en Feria, no en Carnicería ni Promar)
    - Abarrotes: aceite normal (el de sushi), salsa de soya (caja), salsa de ostra, harina (saco), palmitos, azúcar (display), champiñón en lata, sal, merkén, ajo en polvo, ajinomoto, leche evaporada, mayonesa, atún (lata), arroz graneado (display; el arroz de sushi va en Promar), aceite de oliva, mantequilla, alcaparras, pimienta blanca, piedra
    - Limpieza y papel (el pack Confort normal va aquí; el Confort de baño va en DPS o J.O): antigrasa, chispero, virutilla, esponja lavaloza, cloro gel, lavaloza, Clorox, servilletas, Poet, Confort, líquido multiuso, insecticida, matamoscas, Lysoform, Quix, desodorante ambiental, jabón
